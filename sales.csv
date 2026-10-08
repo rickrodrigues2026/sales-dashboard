@@ -1,0 +1,121 @@
+date,seller,product,quantity,amount
+2026-06-03,Carla,Cell phone,1,2000.0
+2026-06-03,Carla,Cell phone,1,2000.0
+2026-06-04,Bruno,Laptop,2,7000.0
+2026-06-04,Carla,Cell phone,1,2000.0
+2026-06-04,Carla,Laptop,1,3500.0
+2026-06-06,Carla,Laptop,1,3500.0
+2026-06-06,Ana,Laptop,1,3500.0
+2026-06-08,Ana,Headphones,1,150.0
+2026-06-08,Ana,Headphones,2,300.0
+2026-06-08,Carla,Headphones,2,300.0
+2026-06-09,Ana,Headphones,1,150.0
+2026-06-10,Carla,Headphones,1,150.0
+2026-06-10,Ana,Headphones,1,150.0
+2026-06-11,Carla,Laptop,1,3500.0
+2026-06-11,Bruno,Laptop,1,3500.0
+2026-06-14,Bruno,Headphones,1,150.0
+2026-06-15,Bruno,Cell phone,1,2000.0
+2026-06-15,Bruno,Cell phone,4,8000.0
+2026-06-16,Carla,Laptop,2,7000.0
+2026-06-16,Ana,Cell phone,2,4000.0
+2026-06-16,Carla,Headphones,1,150.0
+2026-06-17,Bruno,Headphones,1,150.0
+2026-06-17,Carla,Laptop,1,3500.0
+2026-06-19,Bruno,Headphones,3,450.0
+2026-06-19,Bruno,Cell phone,3,6000.0
+2026-06-20,Bruno,Headphones,1,150.0
+2026-06-20,Carla,Headphones,3,450.0
+2026-06-20,Bruno,Headphones,2,300.0
+2026-06-21,Ana,Laptop,4,14000.0
+2026-06-21,Carla,Headphones,1,150.0
+2026-06-22,Bruno,Cell phone,1,2000.0
+2026-06-23,Carla,Laptop,1,3500.0
+2026-06-24,Carla,Laptop,2,7000.0
+2026-06-24,Ana,Cell phone,1,2000.0
+2026-06-24,Ana,Headphones,1,150.0
+2026-06-25,Carla,Cell phone,1,2000.0
+2026-06-26,Carla,Headphones,1,150.0
+2026-06-26,Carla,Cell phone,1,2000.0
+2026-06-27,Bruno,Cell phone,1,2000.0
+2026-06-27,Carla,Headphones,1,150.0
+2026-06-28,Ana,Headphones,1,150.0
+2026-06-29,Ana,Laptop,2,7000.0
+2026-06-29,Carla,Headphones,1,150.0
+2026-06-29,Bruno,Headphones,4,600.0
+2026-06-30,Carla,Laptop,1,3500.0
+2026-06-30,Bruno,Laptop,1,3500.0
+2026-07-01,Ana,Cell phone,2,4000.0
+2026-07-01,Carla,Headphones,1,150.0
+2026-07-02,Carla,Laptop,2,7000.0
+2026-07-04,Bruno,Laptop,2,7000.0
+2026-07-05,Ana,Cell phone,2,4000.0
+2026-07-06,Bruno,Cell phone,1,2000.0
+2026-07-06,Ana,Laptop,2,7000.0
+2026-07-08,Ana,Cell phone,1,2000.0
+2026-07-08,Ana,Headphones,4,600.0
+2026-07-09,Carla,Laptop,2,7000.0
+2026-07-11,Carla,Laptop,2,7000.0
+2026-07-11,Ana,Laptop,2,7000.0
+2026-07-12,Ana,Laptop,1,3500.0
+2026-07-13,Ana,Headphones,1,150.0
+2026-07-13,Carla,Laptop,3,10500.0
+2026-07-14,Bruno,Headphones,1,150.0
+2026-07-14,Carla,Headphones,1,150.0
+2026-07-15,Ana,Headphones,1,150.0
+2026-07-15,Carla,Headphones,1,150.0
+2026-07-16,Carla,Cell phone,2,4000.0
+2026-07-21,Bruno,Cell phone,1,2000.0
+2026-07-21,Ana,Cell phone,1,2000.0
+2026-07-22,Bruno,Cell phone,1,2000.0
+2026-07-22,Carla,Laptop,1,3500.0
+2026-07-24,Ana,Laptop,4,14000.0
+2026-07-24,Carla,Headphones,1,150.0
+2026-07-24,Carla,Laptop,1,3500.0
+2026-07-24,Ana,Headphones,1,150.0
+2026-07-24,Bruno,Laptop,1,3500.0
+2026-07-25,Bruno,Headphones,3,450.0
+2026-07-25,Ana,Laptop,1,3500.0
+2026-07-26,Ana,Cell phone,1,2000.0
+2026-07-26,Ana,Laptop,3,10500.0
+2026-07-28,Bruno,Headphones,4,600.0
+2026-07-29,Bruno,Headphones,2,300.0
+2026-07-29,Carla,Laptop,1,3500.0
+2026-07-30,Bruno,Headphones,3,450.0
+2026-08-01,Ana,Cell phone,1,2000.0
+2026-08-01,Ana,Headphones,1,150.0
+2026-08-01,Carla,Laptop,1,3500.0
+2026-08-02,Ana,Laptop,4,14000.0
+2026-08-03,Bruno,Headphones,1,150.0
+2026-08-03,Bruno,Cell phone,2,4000.0
+2026-08-03,Bruno,Laptop,1,3500.0
+2026-08-04,Carla,Headphones,1,150.0
+2026-08-04,Bruno,Laptop,2,7000.0
+2026-08-06,Bruno,Cell phone,3,6000.0
+2026-08-06,Ana,Headphones,2,300.0
+2026-08-07,Bruno,Headphones,1,150.0
+2026-08-09,Bruno,Laptop,2,7000.0
+2026-08-10,Carla,Cell phone,1,2000.0
+2026-08-10,Bruno,Cell phone,3,6000.0
+2026-08-10,Bruno,Cell phone,2,4000.0
+2026-08-11,Bruno,Headphones,2,300.0
+2026-08-11,Bruno,Laptop,1,3500.0
+2026-08-11,Ana,Laptop,3,10500.0
+2026-08-13,Carla,Cell phone,2,4000.0
+2026-08-13,Bruno,Headphones,3,450.0
+2026-08-13,Ana,Cell phone,2,4000.0
+2026-08-14,Ana,Cell phone,1,2000.0
+2026-08-16,Carla,Laptop,1,3500.0
+2026-08-17,Bruno,Laptop,1,3500.0
+2026-08-17,Ana,Laptop,1,3500.0
+2026-08-18,Ana,Laptop,1,3500.0
+2026-08-18,Bruno,Cell phone,1,2000.0
+2026-08-18,Carla,Laptop,1,3500.0
+2026-08-19,Ana,Headphones,2,300.0
+2026-08-21,Ana,Cell phone,1,2000.0
+2026-08-21,Ana,Laptop,3,10500.0
+2026-08-22,Bruno,Laptop,2,7000.0
+2026-08-23,Ana,Laptop,1,3500.0
+2026-08-24,Carla,Cell phone,1,2000.0
+2026-08-27,Ana,Cell phone,4,8000.0
+2026-08-31,Bruno,Cell phone,3,6000.0
